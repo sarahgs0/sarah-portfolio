@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+  <rect width="960" height="600" fill="#FCF7D9"/>
+  <rect x="32" y="32" width="896" height="536" rx="12" fill="#F6D8D6" stroke="#6B7686" stroke-width="2"/>
+  <path d="M33 103h894" stroke="#6B7686" stroke-width="2"/>
+  <g fill="#6B7686">
+    <circle cx="64" cy="67" r="5"/>
+    <circle cx="84" cy="67" r="5"/>
+    <circle cx="104" cy="67" r="5"/>
+  </g>
+  <g fill="#242936" font-family="system-ui, sans-serif">
+    <text x="137" y="75" font-size="22">Illustrative preview</text>
+    <text x="72" y="178" font-size="44" font-weight="600">ViaCEP API Data Collector</text>
+    <text x="72" y="216" font-size="24">Brazilian postal code lookup and export</text>
+  </g>
+  <rect x="72" y="270" width="240" height="184" rx="6" fill="#FCF7D9"/>
+  <rect x="360" y="270" width="240" height="184" rx="6" fill="#F0C5D4"/>
+  <rect x="648" y="270" width="240" height="184" rx="6" fill="#FCF7D9"/>
+  <g fill="none" stroke="#6B7686" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M324 362h24m-7-7 7 7-7 7M612 362h24m-7-7 7 7-7 7"/>
+    <path d="M174 312h36v28h-36zm0 0 18 14 18-14M475 310h-7v30h7m10-30h7v30h-7M750 310h36v30h-36zm0 10h36m-36 10h36m-24-20v30m12-30v30"/>
+  </g>
+  <g fill="#242936" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" font-weight="600">
+    <text x="192" y="398">Request</text>
+    <text x="480" y="398">Process JSON</text>
+    <text x="768" y="398">Export CSV</text>
+  </g>
+</svg>

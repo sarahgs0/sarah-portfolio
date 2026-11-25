@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+  <rect width="960" height="600" fill="#FCF7D9"/>
+  <rect x="32" y="32" width="896" height="536" rx="12" fill="#FCF7D9" stroke="#6B7686" stroke-width="2"/>
+  <path d="M33 103h894M33 163h894" stroke="#E89BB7" stroke-width="2"/>
+  <g fill="#6B7686">
+    <circle cx="64" cy="67" r="5"/>
+    <circle cx="84" cy="67" r="5"/>
+    <circle cx="104" cy="67" r="5"/>
+  </g>
+  <g fill="#242936" font-family="system-ui, sans-serif">
+    <text x="137" y="75" font-size="22">Illustrative preview</text>
+    <text x="67" y="142" font-family="Georgia, serif" font-size="25" font-style="italic">Sarah Gomes</text>
+    <text x="612" y="141" font-size="18">Home     ·     About Me     ·     Projects</text>
+  </g>
+  <path fill="#F6D8D6" d="M33 164h510v332H33z"/>
+  <path fill="#6B7686" d="M543 164h384v332H543z"/>
+  <g fill="#242936" font-family="system-ui, sans-serif">
+    <text x="69" y="250" font-size="19" letter-spacing="3">ACADEMIC PORTFOLIO</text>
+    <text x="69" y="320" font-family="Georgia, serif" font-size="64" font-style="italic">Sarah Gomes</text>
+  </g>
+  <path d="M69 350h70m-70 41h393m-393 21h346" stroke="#E89BB7" stroke-width="3" stroke-linecap="round"/>
+  <path d="M641 218h205v238H641z" fill="#E89BB7"/>
+  <path d="M633 210h205v238H633z" fill="#FCF7D9"/>
+  <path d="M649 226h173v206H649z" fill="#F0C5D4"/>
+  <ellipse cx="735.5" cy="303" rx="32" ry="37" fill="none" stroke="#6B7686" stroke-width="3"/>
+  <path d="M679 402c3-27 23-46 56.5-46S789 375 792 402" fill="none" stroke="#6B7686" stroke-width="3" stroke-linecap="round"/>
+  <path d="M33 496h894" stroke="#E89BB7" stroke-width="2"/>
+</svg>
